@@ -1,5 +1,5 @@
 <p align="center">
- <img alt="npm" src="https://img.shields.io/npm/v/easy_jdb?color=red&label=npm%20version&style=flat-square?style=for-the-badge&logo=appveyor">
+ <img alt="npm" src="https://img.shields.io/npm/v/easy_jdb?color=red&label=npm%20version&style=for-the-badge&logo=appveyor">
  <img alt="npm" src="https://img.shields.io/badge/discord-kweik2%234055-informational?style=for-the-badge&logo=appveyor">
  </p>
 
