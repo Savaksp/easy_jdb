@@ -1,4 +1,6 @@
-<img alt="npm" src="https://img.shields.io/npm/v/easy_jdb?color=red&label=npm%20version&style=flat-square">
+<p align="center">
+ <img alt="npm" src="https://img.shields.io/npm/v/easy_jdb?color=red&label=npm%20version&style=flat-square">
+ </p>
 
 # easy_jdb
  Easy json DB. (nodejs)
