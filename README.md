@@ -2,16 +2,13 @@
  <img alt="npm" src="https://img.shields.io/npm/v/easy_jdb?color=red&label=npm%20version&style=flat-square">
  </p>
 
-<h1 align="center">easy_jdb</p>
-
+## Easy JDB
 Easy json DB. (nodejs)
 
-<h1 align="center">Install</p>
-
+## Install
 `npm install easy_jdb`
 
-<h1 align="center">Usage</p>
-
+## Usage
 ```js
 const { Database } = require("easy_jdb");
 
