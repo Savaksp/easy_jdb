@@ -3,12 +3,14 @@
  </p>
 
 <h1 align="center">easy_jdb</p>
- Easy json DB. (nodejs)
 
-<h1 align="center">easy_jdb</p>
+Easy json DB. (nodejs)
+
+<h1 align="center">Install</p>
+
 `npm install easy_jdb`
 
-<h1 align="center">easy_jdb</p>
+<h1 align="center">Usage</p>
 
 ```js
 const { Database } = require("easy_jdb");
