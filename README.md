@@ -1,3 +1,5 @@
+[![]](https://img.shields.io/npm/v/easy_jdb?color=red&label=npm%20version&style=flat-square)
+
 # easy_jdb
  Easy json DB. (nodejs)
 
