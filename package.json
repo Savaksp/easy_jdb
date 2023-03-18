@@ -1,0 +1,19 @@
+{
+  "name": "easy_jdb",
+  "version": "1.0.5",
+  "description": "Easy to use JsonDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Savaksp/easy_jdb.git"
+  },
+  "author": "Savaksp",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Savaksp/easy_jdb/issues"
+  },
+  "homepage": "https://github.com/Savaksp/easy_jdb#readme"
+}
