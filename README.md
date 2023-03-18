@@ -23,7 +23,11 @@ db.setIfNotExists("1010", 0); // key, valueToSet
 console.log(db.getValue("1010")); // key
 // Set new value to 50
 db.setValue("1010", 50); // key, valueToSet
-// Print new value
+// Print value that we got
+console.log(db.getValue("1010"));
+// Remove value
+db.remove("1010");
+// Print value that we got
 console.log(db.getValue("1010"));
 // Save db if autoSave is false
 db.save();
